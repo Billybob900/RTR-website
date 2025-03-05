@@ -1,0 +1,71 @@
+div{
+    background-color: black;
+}
+.fs-24{
+    color: white;
+}
+span{
+    color: white;
+}
+.Wraparar{
+    background-color: black;
+    color: black;
+}
+.wse-column-inner{
+    background-color: black;
+}
+html{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.wseT{
+    background-color: blue;
+    border-radius: 20px;
+    border-left: 20px;
+}
+.slideout-open{
+    background-color: black;
+    color: black;
+}
+#header-wrap{
+    height: 10px;
+}
+.content-inner{
+    background-color: black;
+}
+.wseIclr-brd-62 clr-bkg-74{
+    background-color: black;
+}
+.content-fixedbgwse-hd clr-bkg-74wse-hd-df{
+    background-color: black;
+}
+.wseIclr-bkg-74clr-brd-62{
+    background-color: black;
+}
+.wseIclr-bkg-74clr-brd-62{
+    background-color: black;
+}
+
+.wse-txt-inner{
+    white-space: nowrap;
+    text-align: center;
+    translate: 20px 20px 20px;
+}
+#h1{
+    white-space: nowrap;
+    background: linear-gradient(red, purple);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block; 
+    -webkit-text-fill-color: transparent;
+    box-shadow: -40px 0 100px red, 40px 0 100px purple;
+    background-color: transparent;
+    border: 2px solid;
+    border-radius: 20px;
+    font-family: "Madimi One";
+}
+.header2{
+    margin-top: 239px;
+    text-align: center;
+    margin-left: 200px;
+}
